@@ -11,6 +11,10 @@ This dataset has been carefully compiled from three separate Kaggle datasets to 
 
 Both categories of images are standardized to a resolution of 240x240 pixels. The AI-generated images have been compressed and resized to match the dimensions of the real images, ensuring consistency in input data for model training. For those interested in analyzing the images at full resolution, references to the original datasets are provided below.
 
+📕 **Notebook Link:** https://www.kaggle.com/code/blurridge/detection-of-ai-generated-sneakers-using-pytorch 
+
+📊 **Dataset Link:** https://www.kaggle.com/datasets/sunnykakar/shoes-dataset-real-and-ai-generated-images
+
 ## Prerequisites
 The project uses multiple libraries used frequently in machine learning and deep learning projects.
 ```
